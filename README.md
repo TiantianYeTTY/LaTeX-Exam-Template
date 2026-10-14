@@ -158,4 +158,8 @@ A、选项甲\hfill B、选项乙\hfill C、选项丙\hfill D、选项丁
 
 本模板供个人出卷与教学交流使用，欢迎参考与改进。
 
-**Author: TiantianYe**
+## 作者
+
+**TiantianYe**
+
+作者在 App Store 中的其他代表作品：水课帮-课堂提问助手；识词本-单词笔记；投影与视图3D教具；解构照片
